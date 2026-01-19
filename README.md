@@ -7,6 +7,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10+-yellow.svg)](https://www.python.org/)
 [![Security](https://img.shields.io/badge/security-audit-red.svg)]()
+[![中文文档](https://img.shields.io/badge/文档-中文版-blue.svg)](README_zh.md)
 
 ## 📖 Overview
 
